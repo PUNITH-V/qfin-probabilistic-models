@@ -62,13 +62,13 @@ Using both **real-world data (SPY ETF)** and **synthetic datasets (GBM)**.
 ## 📸 Sample Outputs
 
 ### Predicted vs Realized Volatility
-![Volatility](results/figures/predicted_vs_actual.png)
+![Volatility](results/predicted_vs_actual.png)
 
 ### Error Comparison
-![Errors](results/figures/error_comparison.png)
+![Errors](results/fig2_error_comparison.png)
 
 ### Distribution Analysis
-![Distribution](results/figures/distribution_comparison.png)
+![Distribution](results/predicted_vs_actual.png)
 
 ---
 
