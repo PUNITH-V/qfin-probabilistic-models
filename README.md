@@ -140,4 +140,4 @@ python run_experiment.py
 
 ## 👨‍💻 Author
 
-**Punith V**
+**PUNITH-V**
